@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:id="@+id/item_tv_tz_fujian"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y100"
+        android:gravity="left|center"
+        android:paddingLeft="10dp"
+        android:text="123456"
+        android:textColor="#408ff4"
+        android:textSize="16sp" />
+</LinearLayout>
